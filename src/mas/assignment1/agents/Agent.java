@@ -1,4 +1,4 @@
-package agents;
+package mas.assignment1.agents;
 
 import java.util.List;
 
